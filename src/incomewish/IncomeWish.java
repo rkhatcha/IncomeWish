@@ -1,19 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package incomewish;
 
 /**
- *
- * @author rkhatchadourian
+ * A practice program that teaches us how to use variables.
+ * @author <a href="mailto:rkhatchadourian@citytech.cuny.edu"Raffi Khatchadourian</a>.
  */
 public class IncomeWish {
 
     /**
-     * @param args the command line arguments
+     * This is the main() method. It's the first portion of code that is executed by the JVM when you
+     * run your program.
      */
     public static void main(String[] args) {
         String name;
